@@ -1,4 +1,4 @@
-## Team Profiles
+# Team Profiles
 
 We are Damian Rusecki and Seb Jensen, Team 8346A ("The Lads"), from St Helena School in Colchester.
 
