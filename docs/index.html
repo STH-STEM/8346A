@@ -15,7 +15,13 @@
       name: '8346A',
       loadSidebar: true,
       repo: ''
+      themeColor: '#D8292F',
     }
+  </script>
+  <script> <!-- Progressive Web App -->
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
