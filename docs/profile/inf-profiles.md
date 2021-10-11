@@ -1,6 +1,6 @@
 # Team Profiles
 
-We are Damian Rusecki and Seb Jensen, Team 8346A ("The Lads"), from St Helena School in Colchester.
+We are Damian, Seb, and Tito, Team 8346A ("The Lads"), from St Helena School in Colchester.
 
 ## Damian Rusecki
 
@@ -9,6 +9,10 @@ Damian started with VEX IQ in Year 7 with the 2017-2018 Ringmaster season. [Rest
 ## Seb Jensen
 
 Seb started with VEX IQ in Year 6 with the 2016-2017 Crossover season. Ever since, Seb has been building robots, attending events, volunteering at events and even organising them. Since transitioning to the VEX EDR platform, he has began to host qualifying VIQC events for up to 30 teams. He is the programmer of the team, focusing on autonomous and innovative means of making driver control more efficient.
+
+## Tito Ahmed
+
+Tito started with VEX IQ in Year 7 with the 2017-2018 Ringmaster season. [Rest of profile]
 
 ## Roles and Tasks
 
